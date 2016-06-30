@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+    <string name="ir_mapas">Ir a mis Mapas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hipodromo">Hipódromo de Las Americas</string>
+    <string name="museo">Museo Soumaya</string>
+    <string name="parque">Six Flags México</string>
+    <string name="zocalo">Zócalo CDMX</string>
+</resources>
